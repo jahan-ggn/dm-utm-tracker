@@ -1,5 +1,5 @@
-# **Dm Utm Tracker** Plugin
+# DM UTM Tracker Plugin
 
 **Plugin Summary**
 
-For more information, please see: **url to meta topic**
+Automatically appends UTM parameters to Daily Maverick article links for tracking

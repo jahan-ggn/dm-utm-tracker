@@ -1,4 +1,19 @@
-dm_utm_tracker:
+plugins:
   dm_utm_tracker_enabled:
     default: false
     client: true
+
+  dm_utm_match_pattern:
+    default: "www.dailymaverick.co.za/article"
+    client: true
+    type: text
+
+  dm_utm_source:
+    default: "DMC"
+    client: true
+    type: text
+
+  dm_utm_medium:
+    default: "article link"
+    client: true
+    type: text
