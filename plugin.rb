@@ -15,7 +15,7 @@ end
 require_relative "lib/dm_utm_tracker/engine"
 
 after_initialize do
-  DiscourseEvent.on(:before_post_process_cooked) do |doc, post|
+  on(:before_post_process_cooked) do |doc, post|
     next unless SiteSetting.dm_utm_tracker_enabled
 
     match_pattern = SiteSetting.dm_utm_match_pattern.strip
