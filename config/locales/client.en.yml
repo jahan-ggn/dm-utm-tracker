@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          TODO_plugin_name: "Plugin Name"
+          dm_utm_tracker: "Dm Utm Tracker"
   js:
-    discourse_plugin_name:
+    dm_utm_tracker:
       placeholder: placeholder
