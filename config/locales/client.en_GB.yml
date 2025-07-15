@@ -1,0 +1,10 @@
+en_GB:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          dm_utm_tracker: "DM UTM Tracker"
+  js:
+    dm_utm_tracker:
+      title: "DM UTM Tracker"
+      admin_navigation: "DM UTM Tracker"

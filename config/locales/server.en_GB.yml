@@ -1,0 +1,6 @@
+en_GB:
+  site_settings:
+    dm_utm_tracker_enabled: "Enable DM UTM Tracker plugin"
+    dm_utm_match_pattern: "Partial link match to apply UTM parameters (e.g., www.dailymaverick.co.za/article)"
+    dm_utm_source: "UTM Source to append to Daily Maverick article links"
+    dm_utm_medium: "UTM Medium to append to Daily Maverick article links"
